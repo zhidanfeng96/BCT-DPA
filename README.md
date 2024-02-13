@@ -16,10 +16,11 @@ doi = {https://doi.org/10.1016/j.chaos.2024.114585},
 url = {https://www.sciencedirect.com/science/article/pii/S096007792400136X},
 author = {Zhidan Feng and Huimin Song and Xingqin Qi},
 }
+```
 <!-- If our work could help your research, please cite: -->
 
 And: [Characterizing cycle structure in complex networks](https://doi.org/10.1038/s42005-021-00781-3). (Github Repository: https://github.com/ftl129/CycleRatio )
-```
+
 @article{Fan_2021,
   title={Characterizing cycle structure in complex networks.},
   author={T.L Fan and L.Y. Lu and D.H. Shi and T. Zhou},
