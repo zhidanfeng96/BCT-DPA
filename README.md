@@ -15,7 +15,6 @@ If our work could help your research, please cite:
   issn = {0960-0779},
   doi = {https://doi.org/10.1016/j.chaos.2024.114585},
   url = {https://www.sciencedirect.com/science/article/pii/S096007792400136X},
-
 }
 ```
 <!-- If our work could help your research, please cite: -->
